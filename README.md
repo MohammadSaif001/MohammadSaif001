@@ -1,87 +1,44 @@
 <div align="center">
 
-### Mohammad Saif
+# Mohammad Saif
 
-Computer Science student focused on **Data Engineering, Data Science, and AI**.
+**Computer Science Student · Data Engineering · Data Science · AI**
 
-[GitHub](https://github.com/MohammadSaif001) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mohammadsaif0655/) &nbsp;|&nbsp; [Email](mailto:Mohammadsaif005421@gmail.com)
+I build reliable data systems, pipelines, and practical software using **Python, SQL, and modern data tools**.
+
+[GitHub](https://github.com/MohammadSaif001) · [LinkedIn](https://www.linkedin.com/in/mohammadsaif0655/) · [Email](mailto:Mohammadsaif005421@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm pursuing a **B.Tech in Computer Science & Engineering (Data Science and AI)** at Integral University, Lucknow, graduating in 2027.
+B.Tech CSE (Data Science & AI) student at **Integral University, Lucknow**, graduating in 2027.
 
-My primary interest is **Data Engineering** — building reliable data systems, pipelines, and workflows using Python, SQL, Apache Spark, and modern data technologies.
+Currently focused on **Data Engineering**, with growing interests in **Data Science, AI, and scalable data systems**.
 
-I'm also exploring **Data Science and AI**, with an interest in turning raw data into useful systems, insights, and applications.
+## Tech Stack
 
-I care about writing software that is:
+**Languages:** `Python` `SQL`
 
-- Reliable and testable
-- Simple and maintainable
-- Data-driven and measurable
-- Reproducible across environments
-- Built with a strong understanding of the underlying system
+**Data:** `Apache Spark` `PySpark` `Pandas` `NumPy` `PyArrow` `Delta Lake` `Parquet`
 
-## Technical Focus
+**Databases:** `PostgreSQL` `MySQL` `SQL Server`
 
-**Languages**
+**Tools & Cloud:** `Git` `Docker` `Azure` `AWS`
 
-`Python` `SQL`
-
-**Data Engineering**
-
-`Apache Spark` `PySpark` `Delta Lake` `Apache Parquet` `ETL/ELT` `Data Warehousing` `Data Quality`
-
-**Data & Python**
-
-`Pandas` `NumPy` `PyArrow` `Streamlit`
-
-**Databases**
-
-`MySQL` `PostgreSQL` `SQL Server`
-
-**Testing & Automation**
-
-`PyTest` `Selenium WebDriver`
-
-**Tools & Cloud**
-
-`Git` `GitHub` `Docker` `Docker Compose` `uv` `Azure` `AWS`
+**Testing:** `PyTest` `Selenium`
 
 ## Currently Learning
 
-`Apache Spark` · `Cloud Data Systems` · `Scalable Data Pipelines` · `Data Platform Architecture`
+`Apache Spark` · `Cloud Data Systems` · `Data Pipelines` · `Data Platform Architecture`
 
-## Selected Work
+## Projects
 
-I build projects to strengthen my understanding of data systems, distributed processing, and applied software engineering.
-
-- **ELT Lakehouse** — PySpark, Delta Lake, Parquet, data quality, testing, and pipeline optimization.
-- **Power Consumption Analysis** — Python, Pandas, NumPy, and SQL for exploratory data analysis.
-- **Instagram Reel Auto-Scroller** — Python, Selenium, and Docker-based browser automation.
-
-More projects are available on my [GitHub profile](https://github.com/MohammadSaif001).
-
-## GitHub
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadSaif001&show_icons=true&hide_border=true&border_radius=8&theme=default" height="165" alt="GitHub Stats">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaif001&layout=compact&hide_border=true&border_radius=8&theme=default" height="165" alt="Top Languages">
-</td>
-</tr>
-</table>
-
-</div>
+- **ELT Lakehouse** — PySpark, Delta Lake, Parquet, data quality, and testing.
+- **Power Consumption Analysis** — Python, Pandas, NumPy, and SQL.
+- **Instagram Reel Auto-Scroller** — Python, Selenium, and Docker.
 
 ---
 
