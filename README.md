@@ -45,7 +45,7 @@ I focus on **Data Engineering**: building pipelines on both a MySQL warehouse an
 ## Experience & Achievements
 
 - **Data Analytics and Visualization Job Simulation**, Forage – Accenture North America (2024)
-- 🏆 **1st Prize, Code Clash League**, CodeClub, Dept. of CSE, Integral University (team of 2)
+- **1st Prize, Code Clash League**, CodeClub, Dept. of CSE, Integral University (team of 2)
 
 ## Currently Learning
 
